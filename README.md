@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-chao
 - 👀 I’m interested in saxophone playing and program coding 
-- 🌱 I’m currently learning VUE 、Java Script and MS solution
+- 🌱 I’m currently learning VUE and MS Blazor solution
 - 📫 You can reach me by email(jameschao.qci@gmail.com)
 
 <!---
